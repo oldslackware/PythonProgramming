@@ -1,0 +1,18 @@
+#!/usr/bin/python
+print ('Some Lists Operations')
+mylist=[10,20,30]
+mylist.append(40)
+print (mylist)
+mylist.append(10)
+mylist.append([10,20])
+mylist.append(90)
+mylist.append(10)
+mylist.append([10,30,[10,20]])
+print (mylist)
+print ('Occurences of 10')
+print (mylist.count(10))
+mylist.count(10)
+print ('Occurences of [10,20]')
+print (mylist.count([10,20]))
+mylist.clear()
+print (mylist)
