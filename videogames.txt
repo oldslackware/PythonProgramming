@@ -1,0 +1,6 @@
+halo	microsoft
+gran_tourism	playstation
+super mario	nintendo
+zelda	nintendo
+crash	playstation	
+fable	microsoft
